@@ -82,8 +82,8 @@ Follow these instructions to set up the project locally.
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/university-course-reg.git
-cd university-course-reg
+git clone https://github.com/university-course-registration/university-course-registration.git
+cd university-course-registration
 ```
 
 #### 2. Install Dependencies (Root, Server, and Client)
@@ -254,7 +254,7 @@ The CI/CD pipeline is defined in `.github/workflows/ci.yml`
 
 ### Status Badge
 
-![CI Status](https://github.com/your-username/university-course-registration/workflows/CI/badge.svg)
+![CI Status](https://github.com/university-course-registration/university-course-registration/workflows/CI/badge.svg)
 
 ---
 
